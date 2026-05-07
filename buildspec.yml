@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     AWS_REGION: ap-south-1
-    REPOSITORY_URI: <your-ecr-uri>
+    REPOSITORY_URI: 951122816094.dkr.ecr.ap-south-1.amazonaws.com/ecs-demo-app
 
 phases:
   pre_build:
